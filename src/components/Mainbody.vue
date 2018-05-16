@@ -3,7 +3,6 @@
         <navbar></navbar>
         <carousel-box></carousel-box>
         <body-info></body-info>
-
     </div>
 </template>
 

@@ -4,7 +4,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="card">
                 <h4>GROWTH STRATEGIES</h4>
-                <img class="cardimg" src="../../assets/image/p1.png">
+                <img class="cardimg" src="../../static/image/p1.png">
                 <p>Vestibulim dignissim, dui ac hendrerit blandit, sapien orci dictum nibh, vel suscipit augue bibh in enim. Nullam dignissim euisodnunc at</p>
                 <div class="cardbtnBox">
                     <button class="cardbtn">More</button>
@@ -14,7 +14,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card">
                     <h4>PERFECT SUPPORT</h4>
-                    <img class="cardimg" src="../../assets/image/p2.png">
+                    <img class="cardimg" src="../../static/image/p2.png">
                     <p>Donec semper, dolor eu iaculis laoreet, erat diam interdum nisi, vel consequat leo neque in ante. Curabitur fringilla tristique nisl ut</p>
                     <div class="cardbtnBox">
                         <button class="cardbtn">More</button>
@@ -24,7 +24,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card">
                     <h4>PARTNERS PROGRAMS</h4>
-                    <img class="cardimg" src="../../assets/image/p3.png">
+                    <img class="cardimg" src="../../static/image/p3.png">
                     <p>Nunc pellentesque malesuada enim utdignissim. Etiam aliquam malesuada magna, vel scelerisque lectus pharetra quis.</p>
                     <div class="cardbtnBox">
                         <button class="cardbtn">More</button>
@@ -34,7 +34,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="card">
                     <h4>PREMIUM SERVICES</h4>
-                    <img class="cardimg" src="../../assets/image/p4.png">
+                    <img class="cardimg" src="../../static/image/p4.png">
                     <p>Duis molestie commodo sapien, non mollis diam consequat in. Nulla blandit viverra sodales. Donec sit amet diam neque</p>
                     <div class="cardbtnBox">
                         <button class="cardbtn">More</button>
@@ -60,7 +60,7 @@ export default {
 
 <style lang="sass" scoped>
 .bodyInfo
-    background: url(../../assets/image/subbg.gif)
+    background: url(../../static/image/subbg.gif)
     padding-bottom: 50px
     border: 1px solid #9c9c9c
 

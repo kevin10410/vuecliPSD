@@ -1,7 +1,7 @@
 <template>
     <div class="row justify-content-between">
         <div class="logo col-md-5 col-sm-12">
-            <img src="../assets/image/logo.png">
+            <img src="../static/image/logo.png">
         </div>
         <div class="info col-md-5 col-sm-12">
             <div class="icons">

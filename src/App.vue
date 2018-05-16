@@ -31,7 +31,7 @@ export default {
 
 <style lang="sass">
 body 
-  background-image: url("./assets/image/bg.jpg")
+  background-image: url("./static/image/bg.jpg")
 
   #app
     position: relative

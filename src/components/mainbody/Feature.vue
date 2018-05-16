@@ -5,16 +5,16 @@
             <p><i class="fa fa-angle-left fa-2x" aria-hidden="true"></i><i class="fa fa-angle-right fa-2x" aria-hidden="true"></i></p>
         </div>
         <div class="col-md-3 col-6">
-            <img src="../../assets/image/g1.jpg">
+            <img src="../../static/image/g1.jpg">
         </div>
         <div class="col-md-3 col-6">
-            <img src="../../assets/image/g2.jpg">
+            <img src="../../static/image/g2.jpg">
         </div>
         <div class="col-md-3 col-6">
-            <img src="../../assets/image/g3.jpg">
+            <img src="../../static/image/g3.jpg">
         </div>
         <div class="col-md-3 col-6">
-            <img src="../../assets/image/g4.jpg">
+            <img src="../../static/image/g4.jpg">
         </div>
     </div>
 </template>

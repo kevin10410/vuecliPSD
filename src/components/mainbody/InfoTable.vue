@@ -2,7 +2,7 @@
         <div class="row">
             <div class="leftTable col-lg-4 col-md-12">
                 <h2>WELCOME</h2>
-                <img src="../../assets/image/welcome.jpg">
+                <img src="../../static/image/welcome.jpg">
                 <p>Curabitue velit nisl, porttitor viverra molestie quis, lacinia eget purus. Suspendisse ipsum massa, rutrum in hendrerit malesuada, fermentum id erat...<span><a href="#" class="mo">More</a></span></p>
             </div>
             <div class="midTable col-lg-4 col-md-12">
@@ -56,7 +56,7 @@
                 <h2>NEWS & EVENTS</h2>
                 <div class="news row">
                     <div class="neti col-lg-6 col-md-4 col-4">
-                        <img src="../../assets/image/news1.jpg">
+                        <img src="../../static/image/news1.jpg">
                     </div>
                     <div class="nettext col-lg-6 col-md-8 col-8">
                         <span class="day">12.12.12</span>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="news row">
                     <div class="nebi col-lg-6 col-md-4 col-4">
-                        <img src="../../assets/image/news2.jpg">		
+                        <img src="../../static/image/news2.jpg">		
                     </div>
                     <div class="nebtext col-lg-6 col-md-8 col-8">
                         <span class="day">12.12.12</span>

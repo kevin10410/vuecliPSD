@@ -10,7 +10,7 @@
                 " Sed dapibus molestie interdum. Fusce nec est ante, sit amet lacinia lorem. Maecenas nec eros ut mauris pulvinar suscipit. Aliquam erat "
             </div>
             <div class="talker">
-                <img src="../assets/image/men.jpg">
+                <img src="../static/image/men.jpg">
                 <div>
                     <p>Stephen Bingham</p>
 					<p class="link">demolink.org</p>
@@ -31,40 +31,40 @@
             <h6>FLICKR</h6>
             <div class="flickr">
                 <div>
-                    <img src="../assets/image/f1.jpg">
+                    <img src="../static/image/f1.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f2.jpg">
+                    <img src="../static/image/f2.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f3.jpg">
+                    <img src="../static/image/f3.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f4.jpg">
+                    <img src="../static/image/f4.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f5.jpg">
+                    <img src="../static/image/f5.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f6.jpg">
+                    <img src="../static/image/f6.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f7.jpg">
+                    <img src="../static/image/f7.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f8.jpg">
+                    <img src="../static/image/f8.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f9.jpg">
+                    <img src="../static/image/f9.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f10.jpg">
+                    <img src="../static/image/f10.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f11.jpg">
+                    <img src="../static/image/f11.jpg">
                 </div>
                 <div>
-                    <img src="../assets/image/f12.jpg">
+                    <img src="../static/image/f12.jpg">
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@ export default {
 
 <style lang="sass" scoped>
     .bottomTable
-        background: url(../assets/image/subbg.gif)
+        background: url(../static/image/subbg.gif)
         margin-top: 50px
         padding: 25px 15px
         border: 1px solid #9c9c9c
